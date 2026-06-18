@@ -12,6 +12,7 @@ const projects = [
     tech: ["Python", "Machine Learning", "Linear Regression", "Random Forest", "React"],
     image: "/project1.png",
     github: "https://github.com/shivakrishna955/Project1.git",
+    live:"#",
   },
   {
     title: "Task Management System",
@@ -20,6 +21,7 @@ const projects = [
     tech: ["Next.js", "Tailwind CSS", "MongoDB", "Express", "Socket.io"],
     image: "/project2.png",
     github: "https://github.com/shivakrishna955/task-management-system.git",
+    live:"#",
   },
   {
     title: "JARVIS",
@@ -28,6 +30,7 @@ const projects = [
     tech: ["Python", "SpeechRecognition", "OpenAI APIs", "Automation Libraries", "Web APIs"],
     image: "/project3.png",
     github: "https://github.com/shivakrishna955/project2.git",
+    live:"#",
   },
 ];
 
